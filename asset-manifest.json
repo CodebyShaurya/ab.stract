@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bf5eddd.css",
+    "main.js": "/static/js/main.4012f9ac.js",
+    "static/js/787.c05424ea.chunk.js": "/static/js/787.c05424ea.chunk.js",
+    "static/media/Naruto.png": "/static/media/Naruto.82e9fb2ee2980d8cd63b.png",
+    "static/media/Screenshot (335).png": "/static/media/Screenshot (335).2086eea7c183a3e709ed.png",
+    "static/media/Screenshot (334).png": "/static/media/Screenshot (334).c1954a192373eb97368d.png",
+    "static/media/Uzumaki.jpg": "/static/media/Uzumaki.7b4785cd21adae8b7d0f.jpg",
+    "static/media/Saiyan.jpg": "/static/media/Saiyan.3b57fe1f2fde0952bb94.jpg",
+    "static/media/King of pirates.jpg": "/static/media/King of pirates.71f51151fb70bac2f90e.jpg",
+    "static/media/Ganesh Chaturti.jpg": "/static/media/Ganesh Chaturti.611224f878f36ec09af0.jpg",
+    "static/media/king of hell.jpg": "/static/media/king of hell.223a385a4109d8a5fdcf.jpg",
+    "static/media/Logo.png": "/static/media/Logo.f9bd386f911a608990b2.png",
+    "index.html": "/index.html",
+    "main.7bf5eddd.css.map": "/static/css/main.7bf5eddd.css.map",
+    "main.4012f9ac.js.map": "/static/js/main.4012f9ac.js.map",
+    "787.c05424ea.chunk.js.map": "/static/js/787.c05424ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf5eddd.css",
+    "static/js/main.4012f9ac.js"
+  ]
+}
